@@ -4,7 +4,7 @@
 
 <h3 align='center'>Favorite Software Technologies</h3>
 <p align='center'>
-<img src='./images/software-stack.png' alt="React, JavaScript, HTML, CSS">
+<img src='./images/software-stack.png' alt="React, JavaScript, HTML, CSS" style="height:35px">
 </p>
 <h3
  align='center'>Comfortable With</h3
@@ -18,13 +18,13 @@ vs code
 semantic ui
  -->
 <p align='center'>
- <img src='./images/comfortable-with.png' alt="Figma, AWS, Node.js, Ubuntu">
+ <img src='./images/comfortable-with.png' alt="Figma, AWS, Node.js, Ubuntu" style="height:35px">
 </p>
 <h3
  align='center'>Familiar With</h3
 >
 <p align='center'>
-<img align='center' src='./images/familiar-with.png'>
+<img align='center' src='./images/familiar-with.png'style="height:35px">
 </p>
 
  <!-- 
@@ -38,7 +38,7 @@ semantic ui
  align='center'>Want to Learn</h3
 >
 <p align='center'>
-<img align='center' src='./images/want-to-learn.png'>
+<img align='center' src='./images/want-to-learn.png'style="height:35px">
 </p>
 
 <!--
@@ -46,5 +46,6 @@ python
 Next.js
 MongoDB
 Bootstrap
-Docker -->
+Docker
+jQuery -->
 <br>
